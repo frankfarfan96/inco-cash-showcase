@@ -165,7 +165,7 @@ Based on Robert Kiyosaki's "The Cashflow Quadrant":
 ### Security & Privacy
 
 - **Data encryption at rest:** Transaction names and amounts encrypted at database level
-- JWT with refresh tokens (15min access, 7 day refresh)
+- JWT with refresh tokens (7-day access, 30-day refresh)
 - Automated daily token cleanup (2 AM)
 - BCrypt password hashing
 - Email-based password reset
