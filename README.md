@@ -8,35 +8,42 @@
 
 ## 📸 Platform Overview
 
+## 📸 Platform Overview
+
 ### Dashboard - Monthly Balance Overview
 
-![Dashboard](./screenshots/dashboard.png)
-_Real-time balance tracking with quick-add functionality and visual diagrams.
-Budget, Stock, and Mission views coming soon._
+<img src="./screenshots/dashboard.png" width="700" alt="Dashboard">
+
+_Real-time balance tracking with quick-add functionality and visual diagrams. Budget, Stock, and Mission views coming soon._
 
 ### Liabilities (Expenses) - Category Analysis
 
-![Liabilities](./screenshots/liabilities.png)
+<img src="./screenshots/liabilities.png" width="700" alt="Liabilities">
+
 _Comprehensive expense tracking with interactive charts, category filtering, and subcategory breakdown_
 
 ### Assets (Income) - Cash Flow Quadrants
 
-![Assets](./screenshots/assets.png)
+<img src="./screenshots/assets.png" width="700" alt="Assets">
+
 _Income management based on Robert Kiyosaki's Cash Flow Quadrant methodology with filtering capabilities_
 
 ### Balance Analysis - Multi-Period View
 
-![Balance](./screenshots/balance.png)
+<img src="./screenshots/balance.png" width="700" alt="Balance">
+
 _Financial balance visualization with monthly, quarterly, four-monthly, semi-annual, and annual period selection_
 
 ### Multi-Currency Support
 
-![Currency](./screenshots/currency.png)
+<img src="./screenshots/currency.png" width="700" alt="Currency">
+
 _Real-time currency conversion with automatic daily exchange rate updates_
 
 ### Profile & Settings
 
-![Settings](./screenshots/settings.png)
+<img src="./screenshots/settings.png" width="700" alt="Settings">
+
 _Theme customization and language selection across 7 languages_
 
 **Additional pages coming soon:** Budget Management, Stock Portfolio, Mission System
